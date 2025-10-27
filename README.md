@@ -1,5 +1,5 @@
 import java.util.*;
-// Product class
+
 class Product {
  int id;
  String name;
